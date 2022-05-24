@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andrewwalkerscotland
+- 👋 Hi, I’m Andy Walker
 - 👀 I’m interested in lots of different things
 - 🌱 I’m currently learning Rest Assured
 - 💞️ I’m looking to collaborate on ...
